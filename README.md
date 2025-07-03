@@ -1,4 +1,4 @@
-# CYBR 5302 - Final Projects
+# MSDS 5302 - Final Projects
 *University of Colorado Boulder - Master's in Data Science*
 
 ## Project Portfolio
