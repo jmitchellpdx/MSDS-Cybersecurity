@@ -5,6 +5,6 @@
 - **[📥 Download MP4](Cybersecurity%20Interview%20Reflections%20-%20compressed.mp4)** *(19.9 MB backup copy)*
 
 ## About
-Interview with [Professional Name] discussing cybersecurity in higher education and industry applications.
+Reflections on an interview with my colleague G. who teaches courses in the college's cybersecurity degree program. 
 
 *Duration: ~5:20 minutes*
