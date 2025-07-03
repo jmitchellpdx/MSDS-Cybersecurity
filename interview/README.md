@@ -1,4 +1,4 @@
-# Interview with a professional
+# Interview with a CyberSecurity Professional
 
 ## View Options:
 - **[🎥 Watch on Panopto](https://clarkcollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d903918e-db59-4ce7-a3b8-b30f015d1d3a)** *(Recommended - streams directly)*
