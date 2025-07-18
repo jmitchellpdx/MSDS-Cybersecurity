@@ -10,7 +10,7 @@ Summary of interview with cybersecurity professional
 Visual timeline of cryptographic advances and computational power
 
 ### [Crisis Response Plan](crisis-response/)
-*Details TBD*
+Video of Simulated Cybersecurity Crisis Response
 
 ---
 *Repository created for coursework completion and peer review*
