@@ -7,7 +7,7 @@
 - **[📥 Download MP4](5302-Crisis-Response-Video.mp4)** *(After clicking on the link, select the download icon on the right side)*
 
 ## The Memo
-- **[📥 PDF](5302-Crisis-Response-Memo.pdf)**
+- **[📥 Crisis Response Memo - PDF](5302-Crisis-Response-Memo.pdf)**
 
 ## About
 The Video and memo are the final project submission for MSDS #5302: Cybersecurity. 
